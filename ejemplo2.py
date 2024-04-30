@@ -1,6 +1,6 @@
-nombre = input("Ingrese su nombre: ")
+nombre = input("Ingrese su nombre:  ")
 
-edad = int(input("Ingrese su edad: "))
+edad = int(input("Ingrese su edad:  "))
 
 sueldo = float(input("Ingrese el sueldo de la persona: "))
 
