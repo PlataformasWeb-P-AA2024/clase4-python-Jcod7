@@ -1,0 +1,33 @@
+/* estilos.css */
+
+/* Estilo para el cuerpo del documento */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f8f9fa; /* Color de fondo más claro */
+    color: #333; /* Color de texto principal */
+}
+
+/* Estilos para el encabezado h1 */
+h1 {
+    font-size: 24px; /* Tamaño del texto */
+    color: #007bff; /* Color azul */
+    margin-bottom: 20px; /* Espacio inferior */
+}
+
+/* Estilos para los párrafos */
+p {
+    margin-bottom: 15px; /* Incremento el espacio entre párrafos */
+    line-height: 1.5; /* Aumento el espaciado entre líneas */
+}
+
+/* Estilos para los encabezados fuertes */
+strong {
+    color: #007bff; /* Cambio el color a un azul más brillante */
+}
+
+/* Estilos específicos para algunos elementos */
+p:nth-child(odd) {
+    background-color: #f0f0f0; /* Fondo ligeramente más oscuro para párrafos impares */
+}
